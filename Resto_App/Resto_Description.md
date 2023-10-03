@@ -1,10 +1,15 @@
 # Resto HR System
 
+### Note: This is my first real application for an actual customer.
+### Note: I cannot share the project's code to protect the owner's privacy.
+
 The Resto HR System is a mobile application designed to streamline attendance management and break tracking for multi-branch restaurants using advanced face recognition technology. This README overviews the project, its features, and instructions for getting started.
+
 
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#Technologies_Used)
+- [App Demo](#App_Demo)
 
 ## Features
 
@@ -24,3 +29,6 @@ The Resto HR System is a mobile application designed to streamline attendance ma
 - **Easy Localization** for supports English and Arabic for the hall App.
 - **Using camera and   flutter_image_compress packages**
 - **Shared Preferences**
+
+
+##App_Demo
