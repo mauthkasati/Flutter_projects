@@ -33,6 +33,6 @@ The Resto HR System is a mobile application designed to streamline attendance ma
 
 ## App_Demo
 
-<img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Login_Screen_English.jpg" width="200" alt="Login Screen">
+<img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Login_Screen_English.jpg" width="250" alt="Login Screen">
 
 
