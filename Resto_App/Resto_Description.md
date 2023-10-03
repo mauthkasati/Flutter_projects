@@ -1,6 +1,5 @@
 # Resto HR System
 
-------------------
 Note: This is my first real application for an actual customer.</br>
 Note: I cannot share the project's code to protect the owner's privacy.</be>
 ------------------
