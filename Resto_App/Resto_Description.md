@@ -1,8 +1,8 @@
 # Resto HR System
 
 ------------------
-Note: This is my first real application for an actual customer.<br>
-Note: I cannot share the project's code to protect the owner's privacy.<be>
+Note: This is my first real application for an actual customer.</br>
+Note: I cannot share the project's code to protect the owner's privacy.</be>
 ------------------
 
 The Resto HR System is a mobile application designed to streamline attendance management and break tracking for multi-branch restaurants using advanced face recognition technology. This README overviews the project, its features, and instructions for getting started.
