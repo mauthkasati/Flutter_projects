@@ -1,9 +1,11 @@
 # Resto HR System
 
 Note: This is my first real application for an actual customer.</br>
-Note: I cannot share the project's code to protect the owner's privacy.</be>
+Note: I cannot share the project's code to protect the owner's privacy.</br>
 
-The Resto HR System is a mobile application designed to streamline attendance management and break tracking for multi-branch restaurants using advanced face recognition technology. This README overviews the project, its features, and instructions for getting started.
+The Resto HR System is a mobile application designed to streamline attendance management and break tracking for multi-branch restaurants using advanced face recognition technology. This README overviews the project, its features, and instructions for getting started. </br>
+
+Note: The app is designed to be used by the admin or owner of the restaurant. and other employees can use the app only to record their attendance and breaks.</br>
 
 
 ## Table of Contents
@@ -35,5 +37,9 @@ The Resto HR System is a mobile application designed to streamline attendance ma
 
 - **Login Screen:** This is a login screen, it supports choosing the language of the app.
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Login_Screen_Arabic.jpg" width="300" alt="Login Screen">
+- After the user enters the correct username and password, the app routes him to **Restaurants Screen** to choose the needed branch.
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Restaurant_Branches_Screen.jpg" width="300" alt="Login Screen">
+- After the Admin chooses the branch, he goes to **Main Screen**, a screen used by employees, they click on the scan icon to scan their face and enter to options screen if the face matches the registered one.
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Main_Screen.jpg" width="300" alt="Login Screen">
 
 
