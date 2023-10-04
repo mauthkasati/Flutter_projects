@@ -35,20 +35,20 @@ Note: The app is designed to be used by the admin or owner of the restaurant. an
 
 ## App_Demo
 
-- **Login Screen:** This is a login screen, it supports choosing the language of the app.
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Login_Screen_Arabic.jpg" width="250" alt="Login Screen">
-- After the user enters the correct username and password, the app routes him to **Restaurants Screen** to choose the needed branch.
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Restaurant_Branches_Screen.jpg" width="250" alt="Login Screen">
-- After the Admin chooses the branch, he goes to **Main Screen**, a screen used by employees, they click on the scan icon to scan their face and enter to options screen if the face matches the registered one.
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Main_Screen.jpg" width="250" alt="Login Screen">
-- This message appears if the face is not correct.
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Wrong_In_Face_Recognition_Message.jpg" width="205" alt="Login Screen">
-- This is the options screen where an employee can register his attendance and breaks.
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen.jpg" width="250" alt="Login Screen">
-- if the user selects an option this confirming message will appear.
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Confirm_Selected_Option_Message.jpg" width="250" alt="Login Screen">
-- This image shows a description text of the last done option.</br></br>
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen_After_Selecting_An_Option.jpg" width="250" alt="Login Screen">
+- **Login Screen:** This is a login screen, it supports choosing the language of the app.</br>
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Login_Screen_Arabic.jpg" width="250" alt="Login Screen"></br></br>
+- After the user enters the correct username and password, the app routes him to **Restaurants Screen** to choose the needed branch.</br>
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Restaurant_Branches_Screen.jpg" width="250" alt="Login Screen"></br></br>
+- After the Admin chooses the branch, he goes to **Main Screen**, a screen used by employees, they click on the scan icon to scan their face and enter to options screen if the face matches the registered one.</br>
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Main_Screen.jpg" width="250" alt="Login Screen"></br></br>
+- This message appears if the face is not correct.</br>
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Wrong_In_Face_Recognition_Message.jpg" width="205" alt="Login Screen"></br></br>
+- This is the options screen where an employee can register his attendance and breaks.</br>
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen.jpg" width="250" alt="Login Screen"></br></br>
+- if the user selects an option this confirming message will appear.</br>
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Confirm_Selected_Option_Message.jpg" width="250" alt="Login Screen"></br></br>
+- This image shows a description text of the last done option.</br>
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen_After_Selecting_An_Option.jpg" width="250" alt="Login Screen"></br></br>
 
 
 
