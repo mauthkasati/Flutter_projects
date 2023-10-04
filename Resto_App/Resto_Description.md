@@ -47,7 +47,7 @@ Note: The app is designed to be used by the admin or owner of the restaurant. an
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen.jpg" width="250" alt="Login Screen">
 - if the user selects an option this confirming message will appear.
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Confirm_Selected_Option_Message.jpg" width="250" alt="Login Screen">
-- This image shows a description text of the last done option.
+- This image shows a description text of the last done option.</br></br>
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen_After_Selecting_An_Option.jpg" width="250" alt="Login Screen">
 
 
