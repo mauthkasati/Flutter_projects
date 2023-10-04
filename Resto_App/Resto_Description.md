@@ -49,6 +49,9 @@ Note: The app is designed to be used by the admin or owner of the restaurant. an
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Confirm_Selected_Option_Message.jpg" width="250" alt="Login Screen"></br></br>
 - This image shows a description text of the last done option.</br></br>
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen_After_Selecting_An_Option.jpg" width="250" alt="Login Screen"></br></br>
+- Now we returned to the main screen, exactly to appear of the main screen, where the admin can go to employees screen and register their faces, he has to enter his password again.
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Main_Screen_AppBar.jpg" width="250" alt="Login Screen"></br></br>
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Required_Password_For_Enter_To_Register_Employees_Screen.jpg" width="250" alt="Login Screen"></br></br>
 
 
 
