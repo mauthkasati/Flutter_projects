@@ -44,7 +44,7 @@ Note: The app is designed to be used by the admin or owner of the restaurant. an
 - This message appears if the face is not correct.
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Wrong_In_Face_Recognition_Message.jpg" width="205" alt="Login Screen">
 - This is the options screen where an employee can register his attendance and breaks.
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Option_Screen.jpg" width="250" alt="Login Screen">
+- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen.jpg" width="250" alt="Login Screen">
 - if the user selects an option this confirmed message will appear.
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Confirm_Selected_Option_Message.jpg" width="250" alt="Login Screen">
 
