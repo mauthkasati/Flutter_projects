@@ -12,6 +12,7 @@ Note: The app is designed to be used by the admin or owner of the restaurant. an
 - [Features](#features)
 - [Technologies Used](#Technologies_Used)
 - [App Demo](#App_Demo)
+- [Contact me](#Contact_Me)
 
 ## Features
 
@@ -62,6 +63,10 @@ Note: The app is designed to be used by the admin or owner of the restaurant. an
 - Finally, a message appears to confirm adding or showing an error occurred.
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Face_ID_Added_Successfully.jpg" width="250" alt="Login Screen"></br></br>
 - **For sure there is a validation of the existence of the face.**
+
+## Contact_Me
+- ### If you have any questions or require further details, please feel free to contact me: 
+- ### gmail: [Gmail](muathkasati@gmail.com)
 
 
 
