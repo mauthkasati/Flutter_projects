@@ -47,7 +47,7 @@ Note: The app may not offer sign-up since Firebase provides free phone SMS verif
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Restaurant_Branches_Screen.jpg" width="250" alt="Login Screen"></br></br>
 - After the Admin chooses the branch, he goes to **Main Screen**, a screen used by employees, they click on the scan icon to scan their face and enter to options screen if the face matches the registered one.</br></br>
 - this is a Main Screen
-- <div align="center">
+<div align="center">
     <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Main_Screen.jpg" width="250" alt="Login Screen">
 </div>- and this is a scan screen
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Scan_Face_ID_Screen.jpg" width="250" alt="Login Screen"></br></br>
