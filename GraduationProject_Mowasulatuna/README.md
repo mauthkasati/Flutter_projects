@@ -49,7 +49,8 @@ Note: The app may not offer sign-up since Firebase provides free phone SMS verif
 - this is a Main Screen
 <div align="center">
     <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Main_Screen.jpg" width="250" alt="Login Screen">
-</div>- and this is a scan screen
+</div>
+- and this is a scan screen
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Scan_Face_ID_Screen.jpg" width="250" alt="Login Screen"></br></br>
 - This message appears if the face is not correct, or does not exist</br></br>
 - <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Wrong_In_Face_Recognition_Message.jpg" width="205" alt="Login Screen"></br></br>
