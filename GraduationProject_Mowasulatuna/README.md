@@ -1,4 +1,4 @@
-# Mowasulatuna__My Graduation Project
+# 🚀 Mowasulatuna__My Graduation Project
 
 **Mowasulatuna** or **Public Transportation Booking Application In Beit-Lid** is the name of my Graduation Project, it is a Designed user-friendly app for efficient seven-seat bus booking in Beit Leed, simplifying public transportation with features like seat reservation, passenger information, and driver management. </br>
 
@@ -6,14 +6,14 @@ Note: The app supports two types of users: passengers and drivers. Passengers ca
 Note: The app may not offer sign-up since Firebase provides free phone SMS verification messages for a limited time. However, you can take a quick look at our code and screens.</br>
 
 
-## Table of Contents
+## 📚 Table of Contents
 - [Features](#features)
 - [Technologies Used](#Technologies_Used)
 - [Project Thesis](#Project_Thesis)
 - [App Demo](#App_Demo)
 - [Contact me](#Contact_Me)
 
-## Features
+## ✨ Features
 
 - **User Registration**: Create a secure account or log in with ease.
 - **Seat Reservation**: Effortlessly book seats on seven-seat buses for immediate or future trips.
@@ -26,22 +26,22 @@ Note: The app may not offer sign-up since Firebase provides free phone SMS verif
 - **Informational Assistance**: Get valuable travel information for both drivers and passengers.
 
 
-## Technologies_Used
+## 💻 Technologies_Used
 
-- **Figma for UI/UX design**
-- **Provider State Management**
-- **Firebase Authentication**
-- **Firebase Firestore**
-- **Shared Preferences**
-- dealing with dates and times in dart
-- **Google maps & geolocator**
+- **Figma for UI/UX design** 🎨
+- **Provider State Management** 📊
+- **Firebase Authentication** 🔐
+- **Firebase Firestore** 📃
+- **Shared Preferences** 🔄
+- dealing with dates and times in dart 🗓️⏰
+- **Google maps & geolocator** 🗺️📍
 
 
 ## Project_Thesis
 - ### This is our thesis, it contains all details about the project.
 - ### thisis_pdf: [Project_Thesis_PDF](https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/Project_Thesis/Project_Thesis.pdf)
 
-## App_Demo
+## 📱 App_Demo
 - When you install the app for the first time, a logo screen followed by the next four screens provides a quick overview of the app's features.
 - This is a logo screen.
    <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/mowasulatuna_Screens/1_logo_screen.jpg" width="205" alt="Login Screen"></div></br></br>
@@ -109,7 +109,7 @@ Note: The app may not offer sign-up since Firebase provides free phone SMS verif
 - The rest of the screen is the same as the passengers.
 
 
-## Contact_Me
+## 📞 Contact_Me
 - ### If you have any questions or require further details, please feel free to contact me: 
 - ### Gmail: [muathkasati@gmail.com](mailto:muathkasati@gmail.com)
 - ### Linked In: [https://www.linkedin.com/in/muath-kasati/](https://www.linkedin.com/in/muath-kasati/)
