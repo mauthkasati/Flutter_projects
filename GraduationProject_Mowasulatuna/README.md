@@ -37,7 +37,7 @@ Note: The app may not offer sign-up since Firebase provides free phone SMS verif
 
 ## Project_Thesis
 - ### This is our thesis, it contains all details about the project.
-- ### thisis_pdf: [muathkasati@gmail.com](mailto:muathkasati@gmail.com)
+- ### thisis_pdf: [Project_Thesis_PDF](https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/Project_Thesis/Project_Thesis.pdf)
 
 ## App_Demo
 
