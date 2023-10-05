@@ -37,31 +37,37 @@ Note: The app is designed to be used by the admin or owner of the restaurant. an
 ## App_Demo
 
 - **Login Screen:** This is a login screen, it supports choosing the language of the app.</br></br>
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Login_Screen_Arabic.jpg" width="250" alt="Login Screen"></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Login_Screen_Arabic.jpg" width="250" alt="Login Screen"></div>
+</br></br>
 - After the user enters the correct username and password, the app routes him to **Restaurants Screen** to choose the needed branch.</br></br>
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Restaurant_Branches_Screen.jpg" width="250" alt="Login Screen"></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Restaurant_Branches_Screen.jpg" width="250" alt="Login Screen"></div>
+</br></br>
 - After the Admin chooses the branch, he goes to **Main Screen**, a screen used by employees, they click on the scan icon to scan their face and enter to options screen if the face matches the registered one.</br></br>
 - this is a Main Screen
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Main_Screen.jpg" width="250" alt="Login Screen"></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Main_Screen.jpg" width="250" alt="Login Screen"></div>
+</br></br>
 - and this is a scan screen
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Scan_Face_ID_Screen.jpg" width="250" alt="Login Screen"></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Scan_Face_ID_Screen.jpg" width="250" alt="Login Screen"></div>
+</br></br>
 - This message appears if the face is not correct, or does not exist</br></br>
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Wrong_In_Face_Recognition_Message.jpg" width="205" alt="Login Screen"></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Wrong_In_Face_Recognition_Message.jpg" width="205" alt="Login Screen"></div>
+</br></br>
 - This is the options screen where an employee can register his attendance and breaks.</br></br>
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen.jpg" width="250" alt="Login Screen"></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen.jpg" width="250" alt="Login Screen"></div>
+</br></br>
 - if the user selects an option this confirming message will appear.</br></br>
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Confirm_Selected_Option_Message.jpg" width="250" alt="Login Screen"></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Confirm_Selected_Option_Message.jpg" width="250" alt="Login Screen"></div></br></br>
 - This image shows a description text of the last done option.</br></br>
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen_After_Selecting_An_Option.jpg" width="250" alt="Login Screen"></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Options_Screen_After_Selecting_An_Option.jpg" width="250" alt="Login Screen"></div></br></br>
 - Now we returned to the main screen, exactly to appear of the main screen, where the admin can go to the employees' screen and register their faces, he has to enter his password again.
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Main_Screen_AppBar.jpg" width="250" alt="Login Screen"></br></br>
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Required_Password_For_Enter_To_Register_Employees_Screen.jpg" width="250" alt="Login Screen"></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Main_Screen_AppBar.jpg" width="250" alt="Login Screen"></div></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Required_Password_For_Enter_To_Register_Employees_Screen.jpg" width="250" alt="Login Screen"></div></br></br>
 - Then the admin goes to the employee screen, and when he clicks on an employee a confirmation message appears, once it is confirmed a camera opens to receive an image of the employee.
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Employees_Screen.jpg" width="250" alt="Login Screen"></br></br>
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Confirm_Adding_Face_ID_For_Selected_Employee.jpg" width="250" alt="Login Screen"></br></br>
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Scan_Face_ID_Screen.jpg" width="250" alt="Login Screen"></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Employees_Screen.jpg" width="250" alt="Login Screen"></div></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Confirm_Adding_Face_ID_For_Selected_Employee.jpg" width="250" alt="Login Screen"></div></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Scan_Face_ID_Screen.jpg" width="250" alt="Login Screen"></div></br></br>
 - Finally, a message appears to confirm adding or showing an error occurred.
-- <img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Face_ID_Added_Successfully.jpg" width="250" alt="Login Screen"></br></br>
+- <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Face_ID_Added_Successfully.jpg" width="250" alt="Login Screen"></div></br></br>
 - **For sure there is a validation of the existence of the face.**
 
 ## Contact_Me
