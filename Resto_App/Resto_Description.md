@@ -66,7 +66,8 @@ Note: The app is designed to be used by the admin or owner of the restaurant. an
 
 ## Contact_Me
 - ### If you have any questions or require further details, please feel free to contact me: 
-- ### gmail: [muathkasati@gmail.com](mailto:muathkasati@gmail.com)
+- ### Gmail: [muathkasati@gmail.com](mailto:muathkasati@gmail.com)
+- ### Linked In: [https://www.linkedin.com/in/muath-kasati/](https://www.linkedin.com/in/muath-kasati/)
 
 
 
