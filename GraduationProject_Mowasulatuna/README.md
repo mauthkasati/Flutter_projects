@@ -28,6 +28,7 @@ Note: The app may not offer sign-up since Firebase provides free phone SMS verif
 
 ## Technologies_Used
 
+- **Figma for UI/UX design**
 - **Provider State Management**
 - **Firebase Authentication**
 - **Firebase Firestore**
