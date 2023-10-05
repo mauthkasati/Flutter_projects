@@ -1,20 +1,20 @@
-# Resto HR System
+# 🚀 Resto HR System
 
 Note: This is my first real application for an actual customer.</br>
 Note: I cannot share the project's code to protect the owner's privacy.</br>
 
-The Resto HR System is a mobile application designed to streamline attendance management and break tracking for multi-branch restaurants using advanced face recognition technology. This README overviews the project, its features, and instructions for getting started. </br>
+The Resto HR System is a mobile application designed to streamline attendance management and break tracking for multi-branch restaurants using advanced face recognition technology. This README overviews the project, its features, and instructions for getting started.</br>
 
 Note: The app is designed to be used by the admin or owner of the restaurant. and other employees can use the app only to record their attendance and breaks.</br>
 
 
-## Table of Contents
+## 📚 Table of Contents
 - [Features](#features)
 - [Technologies Used](#Technologies_Used)
 - [App Demo](#App_Demo)
-- [Contact me](#Contact_Me)
+- [Contact Me](#Contact_Me)
 
-## Features
+## ✨ Features
 
 - **Face Recognition Attendance:** Employees can easily clock in and out using face recognition, eliminating the need for traditional time clocks.
 - **Multi-Branch Support:** Ideal for restaurant chains, this system supports multiple branches with centralized management.
@@ -24,8 +24,7 @@ Note: The app is designed to be used by the admin or owner of the restaurant. an
 - **Efficiency:** Streamlines HR tasks, reduces errors and ensures accurate attendance records.
 - **Data Security:** Robust security measures protect employee data and attendance records.
 
-
-## Technologies_Used
+## 💻 Technologies_Used
 
 - **Provider State Management**
 - **RestFul APIs** for authentication, get restaurants, get employees, register FaceIDs, recognize faces, and add selected options.
@@ -33,8 +32,7 @@ Note: The app is designed to be used by the admin or owner of the restaurant. an
 - **Using camera and   flutter_image_compress packages**
 - **Shared Preferences**
 
-
-## App_Demo
+## 📱 App_Demo
 
 - **Login Screen:** This is a login screen, it supports choosing the language of the app.</br></br>
   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Login_Screen_Arabic.jpg" width="250" alt="Login Screen"></div>
@@ -63,17 +61,14 @@ Note: The app is designed to be used by the admin or owner of the restaurant. an
   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Required_Password_For_Enter_To_Register_Employees_Screen.jpg" width="250" alt="Login Screen"></div></br></br>
 - Then the admin goes to the employee screen, and when he clicks on an employee a confirmation message appears, once it is confirmed a camera opens to receive an image of the employee.
   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Employees_Screen.jpg" width="250" alt="Login Screen"></div></br></br>
-  <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Confirm_Adding_Face_ID_For_Selected_Employee.jpg" width="250" alt="Login Screen"></div></br></br>
+  <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Confirm_Adding_Face_ID_For_Selected_Employee.jpg" width="250
+  " alt="Login Screen"></div></br></br>
   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Scan_Face_ID_Screen.jpg" width="250" alt="Login Screen"></div></br></br>
-- Finally, a message appears to confirm adding or showing an error occurred.
+- Finally, a message appears to confirm adding or showing an error occurred.</br></br>
   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/images/Face_ID_Added_Successfully.jpg" width="250" alt="Login Screen"></div></br></br>
 - **For sure there is a validation of the existence of the face.**
 
-## Contact_Me
-- ### If you have any questions or require further details, please feel free to contact me: 
-- ### Gmail: [muathkasati@gmail.com](mailto:muathkasati@gmail.com)
-- ### Linked In: [https://www.linkedin.com/in/muath-kasati/](https://www.linkedin.com/in/muath-kasati/)
-
-
-
-
+## 📞 Contact Me
+- **If you have any questions or require further details, please feel free to contact me:**
+- **Gmail:** [muathkasati@gmail.com](mailto:muathkasati@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/muath-kasati/](https://www.linkedin.com/in/muath-kasati/)
