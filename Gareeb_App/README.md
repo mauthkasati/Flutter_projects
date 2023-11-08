@@ -25,21 +25,28 @@ Gareeb is a Quranian notes app created using Flutter. It allows users to read Su
 - Delayed Display
 
 ## 📱 App_Demo
-- When you install the app for the first time, a logo screen followed by the next four screens provides a quick overview of the app's features.
-- This is a logo screen.
-   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/mowasulatuna_Screens/1_logo_screen.jpg" width="205" alt="Login Screen"></div></br></br>
+- This is a first screen. It remains for 1.5 seconds, then you go to the login screen
+   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Gareeb_App/app_screens/1.jpg" width="205" alt="first Screen"></div></br></br>
    
-- And These are overview screens
-   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/mowasulatuna_Screens/2_easy_screen.jpg" width="205" alt="Login Screen"></div></br></br>
+- This  is the login screen. note: this app doesn't require a password it accepts just a name.
+   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Gareeb_App/app_screens/2.jpg" width="205" alt="Login Screen"></div></br></br>
+
+- This is the main screen, where you can choose a surah to read or add notes, and it views your achievements in each surah and your daily achievements, also you can go to read surah, see notes, and see general information about the chosen surah.
+   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Gareeb_App/app_screens/3.jpg" width="205" alt="Main Screen"></div></br></br>
    
-   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/mowasulatuna_Screens/3_book_easily_screen.jpg" width="205" alt="Login Screen"></div></br></br>
+- This is the achievements screen, here you can see all notes of all users of your device, you can filter these notes by the writer or by surah.
+   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Gareeb_App/app_screens/4.jpg" width="205" alt="All Achievements Screen"></div></br></br>
    
-   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/mowasulatuna_Screens/4_know_screen.jpg" width="205" alt="Login Screen"></div></br></br>
+- This is about surah screen where you can read general information about the surah.
+   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Gareeb_App/app_screens/5.jpg" width="205" alt="About Screen"></div></br></br>
+
+- This is the screen reading, if you want to add any notes while reading, just click on the needed verse add your note, and save it.
+   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Gareeb_App/app_screens/6.jpg" width="205" alt="Read Screen"></div></br></br>
+
+- Here you can update, or delete the note.
+   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/Gareeb_App/app_screens/7.jpg" width="205" alt="Notes Screen"></div></br></br>
    
-   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/mowasulatuna_Screens/5_track_map_screen.jpg" width="205" alt="Login Screen"></div></br></br>
    
-- This is the login screen, drivers and passengers can sign in to their accounts
-   <div align="center"><img src="https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/mowasulatuna_Screens/6_login_screen.jpg" width="205" alt="Login Screen"></div></br></br>
 
 ## 📞 Contact_Me
 - ### If you have any questions or require further details, please feel free to contact me: 
