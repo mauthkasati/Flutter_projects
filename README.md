@@ -11,13 +11,13 @@ Welcome to my Flutter Projects repository, where I showcase some of my best Flut
 ----------------------------------------------------------
 
 ### 🍔 Resto
-- **RestoApp:** [https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/README.md](https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/README.md)
+- **RestoApp:** [https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App](https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App)
 
 ### 🎓 Graduation Project
-- **Mowasulatuna (Graduation Project):** [https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/README.md](https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/README.md)
+- **Mowasulatuna (Graduation Project):** [https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna](https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna)
 
 ### 📚 Quranian notes app
-- **Gareeb (Quranian notes app):** [https://github.com/mauthkasati/Flutter_projects/blob/main/Gareeb_App/README.md](https://github.com/mauthkasati/Flutter_projects/blob/main/Gareeb_App/README.md)
+- **Gareeb (Quranian notes app):** [https://github.com/mauthkasati/Flutter_projects/blob/main/Gareeb_App](https://github.com/mauthkasati/Flutter_projects/blob/main/Gareeb_App)
 
 ### 📞 Contact Me
 - **If you have any questions or require further details, please feel free to contact me:**
