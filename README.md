@@ -11,7 +11,7 @@ Welcome to my Flutter Projects repository, where I showcase some of my best Flut
 ----------------------------------------------------------
 
 ### 🍔 Resto
-- **RestoApp:** [https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/Resto_Description.md](https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/README.md)
+- **RestoApp:** [https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/README.md](https://github.com/mauthkasati/Flutter_projects/blob/main/Resto_App/README.md)
 
 ### 🎓 Graduation Project
 - **Mowasulatuna (Graduation Project):** [https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/README.md](https://github.com/mauthkasati/Flutter_projects/blob/main/GraduationProject_Mowasulatuna/README.md)
